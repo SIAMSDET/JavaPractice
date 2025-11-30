@@ -2,7 +2,7 @@
 
 This repository contains simple Java programs demonstrating **string manipulation** techniques such as reversing a string with and without preserving spaces. These examples are great for practicing Java fundamentals and interview preparation.
 
----
+--- 
 
 ## 📘 Programs Included
 
